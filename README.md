@@ -1,6 +1,8 @@
 # Project II - Programming for Data Analysis
 
-## Outline for the project:
+This project will investigate the Wisconsin Breast Cancer dataset. 
+
+The following list presents the requirements of the project:
 
 - Undertake an analysis/review of the dataset and present an overview and background.
 - Provide a literature review on classifiers which have been applied to the dataset and
