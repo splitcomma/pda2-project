@@ -15,6 +15,16 @@ parameter selections you made while training the classifiers.
 - Discuss and investigate how the dataset could be extended – using data synthesis of new
 tumour datapoints
 
+## Project file structure:
+```
+.
+├── README.md
+├── data.csv
+├── images
+│   └── pict1.PNG
+└── project_2.ipynb
+```
+
 ## How to run Jupyter notebook
 
 ### Installation requirements:
