@@ -1,6 +1,6 @@
 # Project II - Programming for Data Analysis
 
-This project will investigate the Wisconsin Breast Cancer dataset. 
+This project will investigate **the Wisconsin Breast Cancer** dataset. 
 
 The following list presents the requirements of the project:
 
@@ -56,7 +56,7 @@ Run:
 python -m notebook
 ```
 
-### References for README:
+### References used for README:
 
 - Further references for installing and setup Jupyter at this [link](https://www.codecademy.com/article/setting-up-jupyter-notebook)
 - Used reference for formatting README at this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
