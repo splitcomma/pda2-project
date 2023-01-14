@@ -31,13 +31,16 @@ tumour datapoints
 - [Python](https://www.pypa.io/en/latest/)
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
 
-Run this command to make sure Miniconda is installed
+Run this command to make sure Python and Miniconda is installed:
+```
+python --version
+```
 
 ```
 conda --version
 ```
 
-Install a few key packages. In the Anaconda Prompt, type
+Install a few key packages. In the Anaconda Prompt, type:
 ```
 conda install jupyter
 ```
@@ -49,7 +52,7 @@ jupyter notebook
 ```
 A Jupyter Notebook interface will appear in your default browser.
 
-Open a new Anaconda Prompt and type the following commands (hit ‘Enter’ after each row):
+Open a new Anaconda Prompt and copy and paste the following commands (hit ‘Enter’ after each row):
 
 ```
 pip install pandas
